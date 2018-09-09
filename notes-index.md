@@ -12,7 +12,7 @@ INDEX OF CLASS NOTES
     * Backward Selection
     * AIC, BIC, Cp
     * Best Subset
-  * Penalized/Shrinkage Methods
+  * Penalized/Shrinkage Methods For Moderate and High dimensional problems
     * Multicollinearity and VIF 
     * Curse of Dimensionality 
     * Ridge
@@ -21,6 +21,9 @@ INDEX OF CLASS NOTES
     * Elastic Net
     * Group Lasso
     * Fused Lasso
+  * Least Squares in Heteroskedastic Models 
+    * Generalized Least Squares
+    * Weighted Least Squares
   * Quantile Regression   
   * M-Estimation
     * Huber loss and Robustness
