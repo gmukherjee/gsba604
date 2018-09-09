@@ -33,12 +33,10 @@ Table of Contents
     * Group Lasso
     * Fused Lasso
   * Categorical Predictors
-  
   * Least Squares in Heteroskedastic Models 
     * Generalized Least Squares
     * Weighted Least Squares
   * Quantile Regression   
- 
  * M-Estimation
     * Huber loss and Robustness
   
