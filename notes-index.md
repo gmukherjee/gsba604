@@ -1,7 +1,7 @@
 
 INDEX OF CLASS NOTES
 
-* <b>Linear Regression Methods</b>
+* <b>1. Linear Regression Methods</b>
   * Ordinary Least Squares (OLS)
     * Estimation
     * Confidence Sets
