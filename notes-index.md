@@ -22,14 +22,14 @@ Table of Contents
     * Backward Selection
     * AIC, BIC, Cp
     * Best Subset
+    * Cross Validation (CV) 
   * Penalized/Shrinkage Methods For Moderate and High dimensional problems
     * Multicollinearity and VIF 
     * Curse of Dimensionality 
     * Ridge
     * Lasso
     * Computational complexity, path algorithms, LARS and glmnet
-    * Selecting the penalty parameter
-      * Cross Validation: General principles and details 
+    * Selecting the penalty parameter by CV
     * Elastic Net
     * Group Lasso
     * Fused Lasso
