@@ -28,6 +28,8 @@ Table of Contents
     * Ridge
     * Lasso
     * Computational complexity, path algorithms, LARS and glmnet
+    * Selecting the penalty parameter
+      * Cross Validation: General principles and details 
     * Elastic Net
     * Group Lasso
     * Fused Lasso
