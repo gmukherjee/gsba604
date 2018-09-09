@@ -8,5 +8,5 @@ Below is an non-exhaustive list of links to some of the class topics:
 |--------|-------------|
 |Syllabus|[Link](https://www.dropbox.com/s/z09a9f4q4h1czo6/syllabus.pdf?dl=0)|
 |R-labs|[Link](https://www.dropbox.com/sh/fnb9nyy92cq75ie/AABg7EE8R_ucpaFXg9UB5aR7a?dl=0)|
-|Class Notes|[Link](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)|
+|Class Notes|[Link](https://github.com/gmukherjee/gsba604/notes-index.md)|
 |Homework|[Link](https://www.dropbox.com/s/nkvzxqo0cpyld7e/homework.pdf?dl=0)|
