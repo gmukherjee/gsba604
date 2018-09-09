@@ -1,5 +1,6 @@
 
-#Table of Contents
+Table of Contents
+-----------------
 
 * <b> Module 1: Linear Regression Methods</b>
   * Ordinary Least Squares (OLS)
