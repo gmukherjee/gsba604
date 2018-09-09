@@ -16,7 +16,6 @@ Table of Contents
         * Testing for the signifance of individual predictors: t-test
       * ANOVA Table and testing hypothesis involving several LPFs 
         * Testing for the signifance of the entire model: F-test
-  * Categorical Predictors
   * Variable/Model Selection
     * Forward Selection
     * Backward Selection
@@ -33,11 +32,14 @@ Table of Contents
     * Elastic Net
     * Group Lasso
     * Fused Lasso
+  * Categorical Predictors
+  
   * Least Squares in Heteroskedastic Models 
     * Generalized Least Squares
     * Weighted Least Squares
   * Quantile Regression   
-  * M-Estimation
+ 
+ * M-Estimation
     * Huber loss and Robustness
   
 
