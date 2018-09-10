@@ -2,7 +2,7 @@
 Table of Contents
 -----------------
 
-* <b> Module 1: Linear Regression Methods</b>
+* <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions</b>
   * Ordinary Least Squares (OLS)
     * Estimation
       * BLUE, Gauss-Markov Theorem
@@ -40,4 +40,15 @@ Table of Contents
   * M-Estimation
     * Huber loss and Robustness
   
+  
+* <b> Module 2. Non-Linear Regression</b>
+  * Transforming the Response: Box-Cox method
+  * Transforming the Predictors
+    * Polynomial Regression
+    * Regression Splines
+    * Local Regression
+    * Generalized Additive Models (GAM)
+  * Moving Beyond Gaussianity: Generalized Linear Models (GLM)
+  
 
+* <b> Module 3. Causal Inference</b>
