@@ -3,7 +3,7 @@
  
 |Session| Link |
 |-------|------|
-|R Tutorial|[^This is a very nice tutorial prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford][Click here]()|
+|R Tutorial|^[This awesome tutorial was prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford][Click here]()|
 |R-Lab 1| [Click here]()|
 |R-Lab 2| [Click here]()|
 |R-Lab 3| [Click here]()|
