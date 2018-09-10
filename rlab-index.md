@@ -3,14 +3,14 @@
  
 |Session| Link |
 |-------|------|
-|R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?dl=0) 1^[This awesome tutorial was prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford]|
+|R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?dl=0) @|
 |R Markdown Tutorial| [Click here](https://www.dropbox.com/s/tvb9vn3qjluumoh/2-R-markdown.pdf?dl=0)|
 |R-Lab 1| [Click here](https://www.dropbox.com/s/8c4lf3pbjb99xfj/lab-1.R?dl=0)|
 |R-Lab 2| [Click here](https://www.dropbox.com/s/5eomlx6y9wsyihg/lab-2.html?dl=0)|
 |R-Lab 3| [Click here](https://www.dropbox.com/s/ytbbvmidt3meny4/lab-3.html?dl=0)|
 |R-Lab 4| [Click here]()|
 
-
+@^[This awesome tutorial was prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford]
 
  Referencing of R-labs with Notes
  ---------------------------------
