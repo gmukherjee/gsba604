@@ -3,14 +3,16 @@
  
 |Session| Link |
 |-------|------|
-|R-Lab 1| Click here|
- 
+|R Tutorial|[^This is a very nice tutorial prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford][Click here]()|
+|R-Lab 1| [Click here]()|
+|R-Lab 2| [Click here]()|
+|R-Lab 3| [Click here]()|
+|R-Lab 4| [Click here]()|
 
- 
- 
- 
- labs
------------------
+
+
+ Referencing of R-labs with Notes
+ ---------------------------------
 
 * <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions</b>
   * Ordinary Least Squares (OLS)
