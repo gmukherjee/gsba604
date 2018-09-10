@@ -37,7 +37,7 @@ Table of Contents
     * Generalized Least Squares
     * Weighted Least Squares
   * Quantile Regression   
- * M-Estimation
+  * M-Estimation
     * Huber loss and Robustness
   
 
