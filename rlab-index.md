@@ -1,8 +1,17 @@
+ Links to R labs
+ ---------------
+ 
+|Session| Link |
+|R-Lab 1| Click here|
+ 
 
-Table of Contents
+ 
+ 
+ 
+ labs
 -----------------
 
-* <b> [Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions](https://www.dropbox.com/s/azj7dm228czl4ui/notes-linear-reg.pdf?dl=0)</b>
+* <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions</b>
   * Ordinary Least Squares (OLS)
     * Estimation
       * BLUE, Gauss-Markov Theorem
@@ -16,7 +25,7 @@ Table of Contents
         * Testing for the signifance of individual predictors: t-test
       * ANOVA Table and testing hypothesis involving several LPFs 
         * Testing for the signifance of the entire model: F-test
-  * Variable/Model Selection
+  * Variable/Model Selection [R-Lab 2]
     * Forward Selection
     * Backward Selection
     * AIC, BIC, Cp
