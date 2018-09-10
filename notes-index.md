@@ -2,7 +2,7 @@
 Table of Contents
 -----------------
 
-* <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions [Download notes](https://www.dropbox.com/s/azj7dm228czl4ui/notes-linear-reg.pdf?dl=0)</b>
+* <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions [[Download notes]](https://www.dropbox.com/s/azj7dm228czl4ui/notes-linear-reg.pdf?dl=0)</b>
   * Ordinary Least Squares (OLS)
     * Estimation
       * BLUE, Gauss-Markov Theorem
@@ -21,7 +21,7 @@ Table of Contents
     * Backward Selection
     * AIC, BIC, Cp
     * Best Subset
-    * Cross Validation (CV) [Download Slides](https://www.dropbox.com/s/13qskvow8ytv9cf/cross-validation.pdf?dl=0) 
+    * Cross Validation (CV) [[Download Slides]](https://www.dropbox.com/s/13qskvow8ytv9cf/cross-validation.pdf?dl=0) 
   * Penalized/Shrinkage Methods For Moderate and High dimensional problems
     * Multicollinearity and VIF 
     * Curse of Dimensionality 
