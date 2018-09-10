@@ -30,7 +30,7 @@
     * Backward Selection
     * AIC, BIC, Cp
     * Best Subset
-    * [Cross Validation (CV)](https://www.dropbox.com/s/13qskvow8ytv9cf/cross-validation.pdf?dl=0) 
+    * Cross Validation (CV)
   * Penalized/Shrinkage Methods For Moderate and High dimensional problems
     * Multicollinearity and VIF 
     * Curse of Dimensionality 
