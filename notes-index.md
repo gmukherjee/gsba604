@@ -51,7 +51,9 @@ Table of Contents
     * Dimension Reduction Methods
       * Principal Component Regression
       * Partial Least Squares
-  * Moving Beyond Gaussianity: Generalized Linear Models (GLM)
-  
-
-* <b> Module 3. Causal Inference</b>
+   
+ * <b> Module 3. Generalized Linear Models (GLM) </b>
+    * Moving Beyond Gaussianity:Exponential Families
+    
+    
+* <b> Module 4. Causal Inference</b>
