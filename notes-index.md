@@ -38,7 +38,7 @@ Table of Contents
     * Weighted Least Squares
   * Quantile Regression   
   * M-Estimation
-    * Huber loss and Robustness
+    * Huber loss, Robustness and rlm R package
   
   
 * <b> Module 2. Non-Linear Regression</b>
@@ -48,6 +48,9 @@ Table of Contents
     * Regression Splines
     * Local Regression
     * Generalized Additive Models (GAM)
+    * Dimension Reduction Methods
+      * Principal Component Regression
+      * Partial Least Squares
   * Moving Beyond Gaussianity: Generalized Linear Models (GLM)
   
 
