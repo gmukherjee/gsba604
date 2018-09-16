@@ -52,13 +52,13 @@
     * Generalized Least Squares
     * Weighted Least Squares
   * Quantile Regression [R-lab 4]  
-  * M-Estimation
+  * M-Estimation [R-lab 4] 
     * Huber loss and Robustness
   
   
 * <b> Module 2. Non-Linear Regression</b>
-  * Transforming the Response: Box-Cox method
-  * Transforming the Predictors
+  * Transforming the Response: Box-Cox method [R-lab 5]
+  * Transforming the Predictors [R-lab 5]
     * Polynomial Regression
     * Regression Splines
     * Local Regression
