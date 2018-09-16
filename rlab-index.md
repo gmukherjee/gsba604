@@ -1,5 +1,5 @@
- ##Links to R labs
- ---------------
+Links to R labs
+---------------
  
  
 |Session| Link |
@@ -15,8 +15,8 @@
 @^[This awesome tutorial was prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford]
 
 
- ##Referencing of R-labs with Notes
- ---------------------------------
+Referencing of R-labs with Notes
+---------------------------------
  
 
 * <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions</b>
