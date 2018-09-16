@@ -57,13 +57,18 @@
   
   
 * <b> Module 2. Non-Linear Regression</b>
-  * Transforming the Response: Box-Cox method [R-lab 5]
-  * Transforming the Predictors [R-lab 5]
+  * Transforming the Response: Box-Cox method
+  * Transforming the Predictors
     * Polynomial Regression
     * Regression Splines
     * Local Regression
     * Generalized Additive Models (GAM)
-  * Moving Beyond Gaussianity: Generalized Linear Models (GLM)
-  
-
-* <b> Module 3. Causal Inference</b>
+    * Dimension Reduction Methods
+      * Principal Component Regression
+      * Partial Least Squares
+   
+ * <b> Module 3. Generalized Linear Models (GLM) </b>
+    * Moving Beyond Gaussianity:Exponential Families
+    
+    
+* <b> Module 4. Causal Inference</b>
