@@ -1,5 +1,5 @@
 
-[[Click here to download notes]](https://www.dropbox.com/s/azj7dm228czl4ui/notes-linear-reg.pdf?raw=1)
+[[Click here to download notes]](https://www.dropbox.com/s/azj7dm228czl4ui/notes.pdf?raw=1)
 
 Table of Contents
 -----------------
