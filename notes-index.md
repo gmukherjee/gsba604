@@ -1,8 +1,10 @@
 
+[[Download notes]](https://www.dropbox.com/s/azj7dm228czl4ui/notes-linear-reg.pdf?raw=1)
+
 Table of Contents
 -----------------
 
-* <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions [[Download notes]](https://www.dropbox.com/s/azj7dm228czl4ui/notes-linear-reg.pdf?dl=0)</b>
+* <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions </b>
   * Ordinary Least Squares (OLS)
     * Estimation
       * BLUE, Gauss-Markov Theorem
