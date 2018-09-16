@@ -7,10 +7,10 @@
 |R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @|
 |R Markdown Tutorial| [Click here](https://www.dropbox.com/s/tvb9vn3qjluumoh/2-R-markdown.pdf?raw=1)|
 |R-Lab 1| [Click here](https://www.dropbox.com/s/8c4lf3pbjb99xfj/lab-1.R?raw=1)|
-|R-Lab 2| [Click here](https://www.dropbox.com/s/h11uw0tsu7soghf/lab-2.html?dl=0)|
-|R-Lab 3| [Click here](https://www.dropbox.com/s/ppl5q6qedg1aq5u/lab-3.html?raw=1)|
-|R-Lab 4| [Click here](https://www.dropbox.com/s/atfqa1zuj51wzk5/lab-4.html?raw=1)|
-|R-Lab 5| [Click here](https://www.dropbox.com/s/cnlwndaqr79m1fw/lab-5.html?raw=1)|
+|R-Lab 2| [Click here](https://www.dropbox.com/s/ejblcbm6ghd8ylk/lab-2.Rmd?raw=1)|
+|R-Lab 3| [Click here](https://www.dropbox.com/s/hvmf283e8r8pza0/lab-3.Rmd?raw=1)|
+|R-Lab 4| [Click here](https://www.dropbox.com/s/768yectsos8azm9/lab-4.Rmd?raw=1)|
+|R-Lab 5| [Click here](https://www.dropbox.com/s/ialu8gb52c07gmr/lab-5.Rmd?raw=1)|
 
 @^[This awesome tutorial was prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford]
 
