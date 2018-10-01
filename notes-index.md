@@ -1,5 +1,5 @@
 
-[[Click here to download notes]](https://www.dropbox.com/s/azj7dm228czl4ui/notes.pdf?raw=1)
+[[Click here to download notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
 
 Table of Contents
 -----------------
