@@ -4,16 +4,19 @@
  
 |Session| Link |
 |-------|------|
-|R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @|
+|R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @1|
 |R Markdown Tutorial| [Click here](https://www.dropbox.com/s/tvb9vn3qjluumoh/2-R-markdown.pdf?raw=1)|
 |R-Lab 1| [Click here](https://www.dropbox.com/s/8c4lf3pbjb99xfj/lab-1.R?raw=1)|
 |R-Lab 2| [Click here](https://www.dropbox.com/s/ejblcbm6ghd8ylk/lab-2.Rmd?raw=1)|
 |R-Lab 3| [Click here](https://www.dropbox.com/s/hvmf283e8r8pza0/lab-3.Rmd?raw=1)|
 |R-Lab 4| [Click here](https://www.dropbox.com/s/768yectsos8azm9/lab-4.Rmd?raw=1)|
 |R-Lab 5| [Click here](https://www.dropbox.com/s/ialu8gb52c07gmr/lab-5.Rmd?raw=1)|
+|R Package Tutorial| [Click here](https://www.dropbox.com/s/ialu8gb52c07gmr/lab-5.Rmd?raw=1) @2|
+|R-Lab 6| [Click here](https://www.dropbox.com/s/wsacfzx188xbjfp/lab-6.Rmd?raw=1)|
 
-@^[This awesome tutorial was prepared by my dear friend Rudy Angeles for Stats 305 @ Stanford]
 
+@1^[prepared by Rudy Angeles for Stats 305 @ Stanford]
+@2^[prepared by Trambak Banerjee]
 
 <b>Referencing of R-labs with Notes</b>
 
