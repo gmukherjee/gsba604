@@ -16,6 +16,7 @@
 
 
 @1^[prepared by Rudy Angeles for Stats 305 @ Stanford]
+
 @2^[prepared by Trambak Banerjee]
 
 <b>Referencing of R-labs with Notes</b>
