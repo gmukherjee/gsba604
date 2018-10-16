@@ -11,7 +11,7 @@
 |R-Lab 3| [Click here](https://www.dropbox.com/s/hvmf283e8r8pza0/lab-3.Rmd?raw=1)|
 |R-Lab 4| [Click here](https://www.dropbox.com/s/768yectsos8azm9/lab-4.Rmd?raw=1)|
 |R-Lab 5| [Click here](https://www.dropbox.com/s/ialu8gb52c07gmr/lab-5.Rmd?raw=1)|
-|R Package Tutorial| [Click here](https://www.dropbox.com/s/ialu8gb52c07gmr/lab-5.Rmd?raw=1) @2|
+|R Package Tutorial| [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
 |R-Lab 6| [Click here](https://www.dropbox.com/s/wsacfzx188xbjfp/lab-6.Rmd?raw=1)|
 
 
