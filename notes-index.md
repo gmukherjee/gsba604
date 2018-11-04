@@ -1,5 +1,17 @@
 
-[[Click here to download notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
+Links
+------
+[Modules 1 and 2](https://www.dropbox.com/s/azj7dm228czl4ui/m1-and-2.pdf?raw=1)
+
+Module 3 
+[Part 1: binary data](https://www.dropbox.com/s/drxbnn0ydkjrndl/m3-binomial-glm.pdf?raw=1) 
+[Part 2: Count data](https://www.dropbox.com/s/62zwb9e4weyz07f/m3-poisson-glm.pdf?raw=1) 
+[Part 3: Exponential Family](https://www.dropbox.com/s/aucleen0392kx00/m3-exp-family.pdf?raw=1) 
+[Part 4: Miscellanaeous](https://www.dropbox.com/s/wr9fddg6u5wyv4d/m3-misc-and-glmm.pdf?raw=1)
+[Part 5: Mixed models]()
+
+Module 4
+
 
 Table of Contents
 -----------------
@@ -76,3 +88,7 @@ Table of Contents
    * High-dimensional Versions
          
 * <b> Module 4. Causal Inference</b>
+
+
+[[Click here to download notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
+
