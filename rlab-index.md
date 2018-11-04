@@ -7,12 +7,12 @@
 |R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @1|
 |R Markdown Tutorial| [Click here](https://www.dropbox.com/s/tvb9vn3qjluumoh/2-R-markdown.pdf?raw=1)|
 |R-Lab 1| [Click here](https://www.dropbox.com/s/8c4lf3pbjb99xfj/lab-1.R?raw=1)|
-|R-Lab 2| [Click here](https://www.dropbox.com/s/sd3ri05zjp7i2dh/lab-2.pdf?dl=0)|
-|R-Lab 3| [Click here](https://www.dropbox.com/s/ie2hmqcy5etslaj/lab-3.pdf?dl=0)|
-|R-Lab 4| [Click here](https://www.dropbox.com/s/7ikfxnatdn5kzub/lab-4.pdf?dl=0)|
-|R-Lab 5| [Click here](https://www.dropbox.com/s/8yty4f935wz3tdr/lab-5.pdf?dl=0)|
+|R-Lab 2| [Click here](https://www.dropbox.com/s/sd3ri05zjp7i2dh/lab-2.pdf?raw=1)|
+|R-Lab 3| [Click here](https://www.dropbox.com/s/ie2hmqcy5etslaj/lab-3.pdf?raw=1)|
+|R-Lab 4| [Click here](https://www.dropbox.com/s/7ikfxnatdn5kzub/lab-4.pdf?raw=1)|
+|R-Lab 5| [Click here](https://www.dropbox.com/s/8yty4f935wz3tdr/lab-5.pdf?raw=1)|
 |R Package Tutorial| [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
-|R-Lab 6| [Click here](https://www.dropbox.com/s/awygk31wf5ls39o/lab-6.pdf?dl=0)|
+|R-Lab 6| [Click here](https://www.dropbox.com/s/awygk31wf5ls39o/lab-6.pdf?raw=1)|
 
 
 @1^[prepared by Rudy Angeles for Stats 305 @ Stanford]
