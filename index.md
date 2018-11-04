@@ -31,5 +31,5 @@ Module 4:
 * Gelman and J. Hill. Data Analysis Using Regression and Multilevel/Hierarchical Models.
 * D. Rubin and G. Imbens. Causal Inference for Statistics, Social and Biomedical Sciences: An Introduction.  
 
-In addition I will use note extracts from my graduate school days across from courses Stats 306A taught by Brad Efron, Iain Johnstone and Art Owen across different years and Stats 315 A taught by Rob Tibshirani and Trevor Hastie. 
+In addition I have used note-extracts from my graduate school days spanning several courses such as Stats 306A taught by Brad Efron, Iain Johnstone and Art Owen across different years and Stats 315A taught by Rob Tibshirani and Trevor Hastie. 
 
