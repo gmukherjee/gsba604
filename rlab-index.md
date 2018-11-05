@@ -13,11 +13,14 @@
 |R-Lab 5| [Click here](https://www.dropbox.com/s/8yty4f935wz3tdr/lab-5.pdf?raw=1)|
 |R Package Tutorial| [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
 |R-Lab 6| [Click here](https://www.dropbox.com/s/awygk31wf5ls39o/lab-6.pdf?raw=1)|
+|R-Lab 7| [Click here](https://www.jaredknowles.com/journal/2013/11/25/getting-started-with-mixed-effect-models-in-r)@3|
 
 
 @1^[prepared by Rudy Angeles for Stats 305 @ Stanford]
 
 @2^[prepared by Trambak Banerjee]
+
+@3^[directly from Jared Knowles notes]
 
 The R labs are from the following resources:
 
