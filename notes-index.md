@@ -68,8 +68,8 @@ Table of Contents
     * Dimension Reduction Methods
       * Principal Component Regression
       * Partial Least Squares
-[//]: # (* Regression Trees)  
-[//]: # (* Neural Networks)
+# (* Regression Trees)  
+# (* Neural Networks)
     
    
  * <b> Module 3. Generalized Linear Models (GLM) </b>
