@@ -106,7 +106,7 @@ Module 3 (Click links below to download sub-parts)
   * [[Part 2: Count data]](https://www.dropbox.com/s/62zwb9e4weyz07f/m3-poisson-glm.pdf?raw=1) 
   * [[Part 3: Exponential Family]](https://www.dropbox.com/s/aucleen0392kx00/m3-exp-family.pdf?raw=1) 
   * [[Part 4: Misc and Mixed Models]](https://www.dropbox.com/s/wr9fddg6u5wyv4d/m3-misc-and-glmm.pdf?raw=1)
-  * [[Part 5: High Dimensional GLM]]()
+  * [[Part 5: High Dimensional GLM]](https://www.dropbox.com/s/tn88h96ira1a2ov/m3-hd-glm-estimation.pdf?raw=1)
   * [[Part 6: High Dimensional GLMM]]() 
   
 Module 4
