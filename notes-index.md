@@ -1,21 +1,4 @@
 
-Links
-------
-Modules 1 and 2
-
-[Modules 1 & 2](https://www.dropbox.com/s/azj7dm228czl4ui/m1-and-2.pdf?raw=1)
-
-Module 3 
-
-[[Part 1: binary data]](https://www.dropbox.com/s/drxbnn0ydkjrndl/m3-binomial-glm.pdf?raw=1) 
-[[Part 2: Count data]](https://www.dropbox.com/s/62zwb9e4weyz07f/m3-poisson-glm.pdf?raw=1) 
-[[Part 3: Exponential Family]](https://www.dropbox.com/s/aucleen0392kx00/m3-exp-family.pdf?raw=1) 
-[[Part 4: Miscellanaeous]](https://www.dropbox.com/s/wr9fddg6u5wyv4d/m3-misc-and-glmm.pdf?raw=1)
-[[Part 5: Mixed models]]()
-
-Module 4
-
-
 Table of Contents
 -----------------
 
@@ -93,10 +76,8 @@ Table of Contents
 * <b> Module 4. Causal Inference</b>
   * Causal Inference using regression on the treatment variables
     * Causal inference and predictive comparisons
-    * The fundamental problem of causal inference
-    * Randomized experiments
-    * Observational studies
-    * Assumption of ignorable treatment assignment
+    * Randomized experiments and Observational studies
+    * Ignorable treatment assignments
 
   * Causal inference using more advanced models
     * Imbalance and lack of complete overlap
@@ -104,6 +85,21 @@ Table of Contents
     * Regression discontinuity
     * Estimating causal effects indirectly using instrumental variables
 
+-------------------------------------------------------------------------
 
-[[Click here to download notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
+[[Click here to download all notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
 
+--------------------------
+Links to Separate Modules
+-------------------------
+Modules 1 and 2 
+  * [Click here to download](https://www.dropbox.com/s/azj7dm228czl4ui/m1-and-2.pdf?raw=1)
+
+Module 3 (Click links below to download sub-parts)
+  * [[Part 1: Binary data]](https://www.dropbox.com/s/drxbnn0ydkjrndl/m3-binomial-glm.pdf?raw=1) 
+  * [[Part 2: Count data]](https://www.dropbox.com/s/62zwb9e4weyz07f/m3-poisson-glm.pdf?raw=1) 
+  * [[Part 3: Exponential Family]](https://www.dropbox.com/s/aucleen0392kx00/m3-exp-family.pdf?raw=1) 
+  * [[Part 4: Misc and Mixed Models]](https://www.dropbox.com/s/wr9fddg6u5wyv4d/m3-misc-and-glmm.pdf?raw=1)
+  
+Module 4
+* [Click here to download](https://www.dropbox.com/s/7t236nn1ijw8kg0/causal-inference.pdf?raw=1)
