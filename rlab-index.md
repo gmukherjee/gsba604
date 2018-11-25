@@ -11,7 +11,7 @@
 |R-Lab 3| [Click here](https://www.dropbox.com/s/ie2hmqcy5etslaj/lab-3.pdf?raw=1)|
 |R-Lab 4| [Click here](https://www.dropbox.com/s/7ikfxnatdn5kzub/lab-4.pdf?raw=1)|
 |R-Lab 5| [Click here](https://www.dropbox.com/s/8yty4f935wz3tdr/lab-5.pdf?raw=1)|
-|Tutorial on making an R Package | [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
+|Tutorial on making an R Package | [Click here](https://www.dropbox.com/s/93art9d97mg90pz/building-R-packages.pdf?raw=1) @2|
 |R-Lab 6| [Click here](https://www.dropbox.com/s/awygk31wf5ls39o/lab-6.pdf?raw=1)|
 |R-Lab 7| [Click here](https://www.jaredknowles.com/journal/2013/11/25/getting-started-with-mixed-effect-models-in-r)@ 3|
 |R-Lab 8| [Click here](https://www.jaredknowles.com/journal/2014/5/17/mixed-effects-tutorial-2-fun-with-mermod-objects)@ 3|
