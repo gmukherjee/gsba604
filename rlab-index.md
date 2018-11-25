@@ -28,7 +28,7 @@ The R labs are from the following resources:
 
 * J.J. Faraway. Practical Regression and Anova using R
 * G. James, D. Witten, T. Hastie, and R. Tibshirani. An introduction to statistical learning.  New York: springer. 2013. 
-* Agresti. Foundations of Linear and Generalized Linear Models, Wiley 2015. 
+* A. Agresti. Foundations of Linear and Generalized Linear Models, Wiley 2015. 
 * A. Gelman and Hill. Data Analysis Using Regression and Multilevel Hierarchical Models, 2007.  
 
 <b>Referencing of R-labs with Notes</b>
