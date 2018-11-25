@@ -9,7 +9,7 @@ Below is an non-exhaustive list of links to some of the class topics:
 |Syllabus|[Link](https://www.dropbox.com/s/z09a9f4q4h1czo6/syllabus.pdf?raw=1)|
 |R-labs|[Link](rlab-index.md)|
 |Class Notes|[Link](notes-index.md)|
-|Homework|[Link](https://www.dropbox.com/s/nkvzxqo0cpyld7e/homework.pdf?dl=1)|
+|Homework|[Link](https://www.dropbox.com/s/nkvzxqo0cpyld7e/homework.pdf?dl=0)|
 
 
 The class notes are prepared based on the following books and resources:
