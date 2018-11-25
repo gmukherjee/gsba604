@@ -1,7 +1,11 @@
-<b>Links to R labs</b>
+--------------------------------------
 
- 
- 
+[[Click here to go back to course home]](https://gmukherjee.github.io/gsba604/)
+
+-------------------------------------
+
+## Links to R labs
+  
 |Session| Link |
 |-------|------|
 |Tutorial on R basics|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @1|
@@ -31,7 +35,10 @@ The R labs are from the following resources:
 * A. Agresti. Foundations of Linear and Generalized Linear Models, Wiley 2015. 
 * A. Gelman and Hill. Data Analysis Using Regression and Multilevel Hierarchical Models, 2007.  
 
-<b>Referencing of R-labs with Notes</b>
+--------------------------------------------------------------------------
+
+
+## Referencing of R-labs with Class Notes
 
 * <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions</b>
   * Ordinary Least Squares (OLS)
@@ -106,3 +113,8 @@ The R labs are from the following resources:
   * Causal Inference using regression on the treatment variables [R-lab 10 A]
   * Causal inference using more advanced models [R-lab 10 B]
    
+--------------------------------------
+
+[[Click here to go back to course home]](https://gmukherjee.github.io/gsba604/)
+
+-------------------------------------
