@@ -11,7 +11,7 @@
 |R-Lab 3| [Click here](https://www.dropbox.com/s/ie2hmqcy5etslaj/lab-3.pdf?raw=1)|
 |R-Lab 4| [Click here](https://www.dropbox.com/s/7ikfxnatdn5kzub/lab-4.pdf?raw=1)|
 |R-Lab 5| [Click here](https://www.dropbox.com/s/8yty4f935wz3tdr/lab-5.pdf?raw=1)|
-|Tutorial on making an R Package? | [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
+|Tutorial on making an R Package | [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
 |R-Lab 6| [Click here](https://www.dropbox.com/s/awygk31wf5ls39o/lab-6.pdf?raw=1)|
 |R-Lab 7| [Click here](https://www.jaredknowles.com/journal/2013/11/25/getting-started-with-mixed-effect-models-in-r)@ 3|
 |R-Lab 8| [Click here](https://www.jaredknowles.com/journal/2014/5/17/mixed-effects-tutorial-2-fun-with-mermod-objects)@ 3|
@@ -29,6 +29,7 @@ The R labs are from the following resources:
 * J.J. Faraway. Practical Regression and Anova using R
 * G. James, D. Witten, T. Hastie, and R. Tibshirani. An introduction to statistical learning.  New York: springer. 2013. 
 * Agresti. Foundations of Linear and Generalized Linear Models, Wiley 2015. 
+* A. Gelman and Hill. Data Analysis Using Regression and Multilevel Hierarchical Models, 2007.  
 
 <b>Referencing of R-labs with Notes</b>
 
