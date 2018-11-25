@@ -87,10 +87,22 @@ Table of Contents
    * Random Effects, Correlated Responses and GLMM
      * Normal Linear Mixed Model
      * Generalized Linear Mixed Model (GLMM)
-   * Joint Modeling and Time to event
+   <!-- * Joint Modeling and Time to event-->
    * High-dimensional Versions
          
 * <b> Module 4. Causal Inference</b>
+  * Causal Inference using regression on the treatment variables
+    * Causal inference and predictive comparisons
+    * The fundamental problem of causal inference
+    * Randomized experiments
+    * Observational studies
+    * Assumption of ignorable treatment assignment
+
+  * Causal inference using more advanced models
+    * Imbalance and lack of complete overlap
+    * Propensity score matching
+    * Regression discontinuity
+    * Estimating causal effects indirectly using instrumental variables
 
 
 [[Click here to download notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
