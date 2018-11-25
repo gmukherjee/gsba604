@@ -83,7 +83,25 @@ The R labs are from the following resources:
       * Partial Least Squares
    
  * <b> Module 3. Generalized Linear Models (GLM) </b>
-    * Moving Beyond Gaussianity:Exponential Families
-    
-    
+   * Popular Models
+     * Binary Data (Logit and Probit)
+     * Multinomial Response Models
+     * Count Data (Poisson GLM)
+      - Models for Contingency tables
+      - Connections between logistic and log-linear models
+     * Quasi-likelihood Models
+   * General framework for studying theory and methods for GLMs
+     * Moving Beyond Gaussianity
+     * Exponential Dispersion Family
+     * Divergence and general inference principles
+   * Random Effects, Correlated Responses and GLMM
+     * Normal Linear Mixed Model
+     * Generalized Linear Mixed Model (GLMM)
+   <!-- * Joint Modeling and Time to event-->
+   * High-dimensional (HD) Versions
+
+         
 * <b> Module 4. Causal Inference</b>
+  * Causal Inference using regression on the treatment variables 
+  * Causal inference using more advanced models
+   
