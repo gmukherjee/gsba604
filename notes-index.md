@@ -1,5 +1,12 @@
 
+------------------
+
+[Click here to go back to course home](https://gmukherjee.github.io/gsba604/)
+
+-----------------
+
 Table of Contents
+
 -----------------
 
 * <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions </b>
@@ -113,3 +120,11 @@ Module 3 (Click links below to download sub-parts)
   
 Module 4
 * [Click here to download](https://www.dropbox.com/s/7t236nn1ijw8kg0/causal-inference.pdf?raw=1)
+
+------------------
+
+[Click here to go back to course home](https://gmukherjee.github.io/gsba604/)
+
+-----------------
+
+
