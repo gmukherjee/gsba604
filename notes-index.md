@@ -1,13 +1,12 @@
 
 ------------------
 
-[Click here to go back to course home](https://gmukherjee.github.io/gsba604/)
+[[Click here to go back to course home]](https://gmukherjee.github.io/gsba604/)
 
 -----------------
 
-Table of Contents
+## Table of Contents
 
------------------
 
 * <b> Module 1. Linear Regression Methods in Fixed, Moderate and High dimensions </b>
   * Ordinary Least Squares (OLS)
@@ -103,9 +102,7 @@ Table of Contents
 
 --------------------------
 
-Links to Separate Modules
-
--------------------------
+## Links to Separate Modules
 
 Modules 1 and 2 
   * [Click here to download](https://www.dropbox.com/s/azj7dm228czl4ui/m1-and-2.pdf?raw=1)
@@ -123,7 +120,7 @@ Module 4
 
 ------------------
 
-[Click here to go back to course home](https://gmukherjee.github.io/gsba604/)
+[[Click here to go back to course home]](https://gmukherjee.github.io/gsba604/)
 
 -----------------
 
