@@ -4,19 +4,19 @@
  
 |Session| Link |
 |-------|------|
-|R Tutorial|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @1|
-|R Markdown Tutorial| [Click here](https://www.dropbox.com/s/tvb9vn3qjluumoh/2-R-markdown.pdf?raw=1)|
+|Tutorial on R basics|[Click here](https://www.dropbox.com/s/kx0ubups6bapmpe/1-R-tutorial.pdf?raw=1) @1|
+|Tutorial on R Markdown | [Click here](https://www.dropbox.com/s/tvb9vn3qjluumoh/2-R-markdown.pdf?raw=1)|
 |R-Lab 1| [Click here](https://www.dropbox.com/s/8c4lf3pbjb99xfj/lab-1.R?raw=1)|
 |R-Lab 2| [Click here](https://www.dropbox.com/s/sd3ri05zjp7i2dh/lab-2.pdf?raw=1)|
 |R-Lab 3| [Click here](https://www.dropbox.com/s/ie2hmqcy5etslaj/lab-3.pdf?raw=1)|
 |R-Lab 4| [Click here](https://www.dropbox.com/s/7ikfxnatdn5kzub/lab-4.pdf?raw=1)|
 |R-Lab 5| [Click here](https://www.dropbox.com/s/8yty4f935wz3tdr/lab-5.pdf?raw=1)|
-|R Package Tutorial| [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
+|Tutorial on making an R Package? | [Click here](https://www.dropbox.com/s/nc7rxkqmwdvsewz/R-package-Tutorial.html?dl=0) @2|
 |R-Lab 6| [Click here](https://www.dropbox.com/s/awygk31wf5ls39o/lab-6.pdf?raw=1)|
 |R-Lab 7| [Click here](https://www.jaredknowles.com/journal/2013/11/25/getting-started-with-mixed-effect-models-in-r)@ 3|
 |R-Lab 8| [Click here](https://www.jaredknowles.com/journal/2014/5/17/mixed-effects-tutorial-2-fun-with-mermod-objects)@ 3|
-|R-Lab 9| [Click here]()|
-|R-Lab 10| [Click here]() @2|
+|R-Lab 9| [Click here](https://www.dropbox.com/s/rsgdhrc9d51tjnx/lab-9.pdf?raw=1)|
+|R-Lab 10| [Part A](https://www.dropbox.com/s/9pq9n1nmk1twigd/lab-10-a.R?raw=1) and [Part B](https://www.dropbox.com/s/x93fyk0yq06c9b4/lab-10-b.R?raw=1) @2|
 
 @1^[prepared by Rudy Angeles for Stats 305 @ Stanford]
 
@@ -83,7 +83,7 @@ The R labs are from the following resources:
       * Partial Least Squares
    
  * <b> Module 3. Generalized Linear Models (GLM) </b>
-   * Popular Models
+   * Popular Models  [R-lab 6]
      * Binary Data (Logit and Probit)
      * Multinomial Response Models
      * Count Data (Poisson GLM)
@@ -94,14 +94,14 @@ The R labs are from the following resources:
      * Moving Beyond Gaussianity
      * Exponential Dispersion Family
      * Divergence and general inference principles
-   * Random Effects, Correlated Responses and GLMM
-     * Normal Linear Mixed Model
-     * Generalized Linear Mixed Model (GLMM)
+   * Random Effects, Correlated Responses and GLMM [R-lab 9]
+     * Normal Linear Mixed Model [R-lab 7]
+     * Generalized Linear Mixed Model (GLMM) [R-lab 8]
    <!-- * Joint Modeling and Time to event-->
    * High-dimensional (HD) Versions
 
          
-* <b> Module 4. Causal Inference</b>
-  * Causal Inference using regression on the treatment variables 
-  * Causal inference using more advanced models
+* <b> Module 4. Causal Inference</b> 
+  * Causal Inference using regression on the treatment variables [R-lab 10 A]
+  * Causal inference using more advanced models [R-lab 10 B]
    
