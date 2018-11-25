@@ -95,7 +95,9 @@ Table of Contents
 [[Click here to download all notes]](https://www.dropbox.com/sh/75h9in74cck1nc0/AADnZ_Eodqh5z9cm798pa8r0a?dl=0)
 
 --------------------------
+
 Links to Separate Modules
+
 -------------------------
 
 Modules 1 and 2 
